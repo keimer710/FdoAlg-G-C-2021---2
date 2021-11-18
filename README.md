@@ -1,5 +1,5 @@
 # FdoAlg-G-C-2021---2
 Repositorio
-#### REDA SOBRE MULTIPLICACIÓN Y DIVISIÓN
-## Keimer Enrique Muñoz Mora : Colaborador
+#### REDA APRENDE A MULTIPLICAR Y DIVIDIR
+### Keimer Enrique Muñoz Mora : Colaborador
 ### Franklin Martínez Ávila : Docente
