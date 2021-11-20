@@ -2,4 +2,5 @@
 Repositorio
 #### REDA APRENDE A MULTIPLICAR Y DIVIDIR
 ### Keimer Enrique Muñoz Mora : Colaborador
+### Luis Carlos Suarez Bravo : Colaborador
 ### Franklin Martínez Ávila : Docente
