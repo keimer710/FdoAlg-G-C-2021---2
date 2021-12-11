@@ -10,6 +10,7 @@ nav {
     overflow: hidden;
     padding: 14px;
     margin: initial;
+    border-radius: 100px;
   }
   nav > a {
     color: black;
