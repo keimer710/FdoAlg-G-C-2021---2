@@ -71,4 +71,6 @@ tr:hover td{
   background-color: rgb(182, 176, 176);
   color: white;
 }
-
+iframe{
+  border-radius: 20px;
+}
