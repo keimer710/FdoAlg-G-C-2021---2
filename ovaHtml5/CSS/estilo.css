@@ -76,3 +76,12 @@ tr:hover td{
 iframe{
   border-radius: 20px;
 }
+#solid{
+  border-style: solid;
+  border-left-color: yellow;
+  border-right-color: red;
+  border-top-color: blue;
+  border-bottom-color: blue ;
+  border-width: 20px;
+  border-radius: 100px;
+}
